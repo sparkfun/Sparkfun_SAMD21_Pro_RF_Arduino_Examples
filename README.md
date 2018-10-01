@@ -11,14 +11,14 @@ Repository Contents
 -------------------
 
 * **/SAMD21 PRF Client** - Code to set up the SAMD21 Pro RF as a client.
-* **/SAMD21 PRF Server** - Code to set up the SAMD21 Pro RF as a client.
-* **/ttn abp node hello world** - Code to set up LoRaWAN, using the Things Network(https://www.thethingsnetwork.org/) for the network server.
+* **/SAMD21 PRF Server** - Code to set up the SAMD21 Pro RF as a server.
+* **/ttn abp node hello world** - Code to set up LoRaWAN, using [The Things Network](https://www.thethingsnetwork.org/) for the network server.
 
 Libraries Used by the Example Code
 -------------------
 
 * **[Paul Stoffregen's Radio Head Library](https://github.com/PaulStoffregen/RadioHead)** - Library for the RFM95W radio module. 
-* **[Matthijs Kooijman LoRaMAC-library-in-C modified to run in Arduino](https://github.com/matthijskooijman/arduino-lmic)** - The original library was IBM's LMIC(LoRaMAC-in-C), that has been modified to run in the Arduino IDE. 
+* **[Matthijs Kooijman LoRaMAC-library-in-C modified to run in Arduino](https://github.com/matthijskooijman/arduino-lmic)** - The original library was IBM's LMIC (LoRaMAC-in-C), that has been modified to run in the Arduino IDE. 
 
 License Information
 -------------------
