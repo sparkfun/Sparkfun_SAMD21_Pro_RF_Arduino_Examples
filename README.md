@@ -16,6 +16,8 @@ Repository Contents
 
 Documentation
 --------------
+* **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+* **[Product Repository](https://github.com/sparkfun/SAMD21_Pro_RF)** - Main repository for the SAMD21 Pro RF.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-samd21-pro-rf-hookup-guide)** - Basic hookup guide the SAMD21 Pro RF going over the point to point radio capabilities of the radio module and how to set up and use LoRaWAN. 
 
 Libraries Used by the Example Code
