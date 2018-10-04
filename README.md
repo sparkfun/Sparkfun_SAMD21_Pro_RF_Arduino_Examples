@@ -14,6 +14,10 @@ Repository Contents
 * **/SAMD21 PRF Server** - Code to set up the SAMD21 Pro RF as a server.
 * **/ttn abp node hello world** - Code to set up LoRaWAN, using [The Things Network](https://www.thethingsnetwork.org/) for the network server.
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-samd21-pro-rf-hookup-guide)** - Basic hookup guide the SAMD21 Pro RF going over the point to point radio capabilities of the radio module and how to set up and use LoRaWAN. 
+
 Libraries Used by the Example Code
 -------------------
 
