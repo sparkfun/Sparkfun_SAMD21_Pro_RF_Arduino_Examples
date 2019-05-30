@@ -53,8 +53,11 @@ void setup()
   // Set frequency
   rf95.setFrequency(frequency);
 
+   // The default transmitter power is 13dBm, using PA_BOOST.
+   // If you are using RFM95/96/97/98 modules which uses the PA_BOOST transmitter pin, then 
+   // you can set transmitter powers from 5 to 23 dBm:
    // Transmitter power can range from 14-20dbm.
-   rf95.setTxPower(14, true);
+   rf95.setTxPower(14, false);
 }
 
 
